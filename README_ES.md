@@ -24,5 +24,5 @@ Desarrollador de Aplicaciones Multiplataforma y Técnico en Sistemas Microinform
 * **[Proyecto VR Valladolid](#)**: Mi proyecto de fin de grado enfocado en turismo y accesibilidad.
 
 ## 📬 Contacto
-- 💼 **LinkedIn**: [Ivan Coloma](https://linkedin.com)
+- 💼 **LinkedIn**: [Ivan Coloma](https://www.linkedin.com/in/ivan-coloma-5817223a8/)
 - 📧 **Email**: icplorive@gmail.com
