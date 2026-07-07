@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://github.com/Coloma33/Coloma33/blob/main/README.md">
+  <a href="https://github.com/Coloma33/Coloma33/blob/main/README_ES.md">
     <img src="https://flagcdn.com/w40/es.png" alt="Versión en Español" width="35" style="border-radius: 4px;">
   </a>
 </div>
