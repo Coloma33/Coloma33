@@ -24,5 +24,5 @@ Multiplatform Applications Developer and IT Systems & Networks Technician focuse
 * **[Valladolid VR Project](#)**: My graduation project focused on tourism and accessibility.
 
 ## 📬 Contact
-- 💼 **LinkedIn**: [Ivan Coloma](www.linkedin.com/in/iván-coloma-rivero-5817223a8)
+- 💼 **LinkedIn**: [Ivan Coloma](https://www.linkedin.com/in/iván-coloma-rivero-5817223a8)
 - 📧 **Email**: icplorive@gmail.com
