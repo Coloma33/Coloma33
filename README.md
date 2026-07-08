@@ -21,7 +21,7 @@ Multiplatform Applications Developer and IT Systems & Networks Technician focuse
 | **Systems** | Hardware assembly, Local networks, Windows/Linux, Technical support |
 
 ## 📦 Featured Projects
-* **[Valladolid VR Project](#)**: My graduation project focused on tourism and accessibility.
+* **[Valladolid VR Project](https://github.com/Coloma33/VR_Valladolid)**: My graduation project focused on tourism and accessibility.
 
 ## 📬 Contact
 - 💼 **LinkedIn**: [Ivan Coloma](https://www.linkedin.com/in/iván-coloma-rivero-5817223a8)
