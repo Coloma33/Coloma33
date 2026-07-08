@@ -21,7 +21,7 @@ Desarrollador de Aplicaciones Multiplataforma y Técnico en Sistemas Microinform
 | **Sistemas** | Montaje de equipos, Redes locales, Windows/Linux, Soporte técnico |
 
 ## 📦 Proyectos Destacados
-* **[Proyecto VR Valladolid](#)**: Mi proyecto de fin de grado enfocado en turismo y accesibilidad.
+* **[Proyecto VR Valladolid](https://github.com/Coloma33/VR_Valladolid)**: Mi proyecto de fin de grado enfocado en turismo y accesibilidad.
 
 ## 📬 Contacto
 - 💼 **LinkedIn**: [Ivan Coloma](https://www.linkedin.com/in/iván-coloma-rivero-5817223a8)
